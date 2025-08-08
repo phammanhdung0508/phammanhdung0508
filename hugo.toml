@@ -1,0 +1,82 @@
+baseURL = 'https://dungpham.vercel.app/'
+languageCode = 'en-us'
+title = 'Sunf'
+theme = "anubis2"
+paginate = 3
+
+disqusShortname = ""
+
+[author]
+name = "Sunf"
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Highlight.js style
+
+[params]
+author = "Sunf"
+description = ""
+dateFormat = ""
+paginationSinglePost = true
+
+colorTheme = "light"
+colorThemeSwitcher = true
+
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-us"
+mathjax = false
+toc = true
+
+[[params.social]]
+id = "docs"
+url = "https://drive.google.com/file/d/1ybLJxhj6NzHha3o2t5lUncJSp-x8mfcf/view"
+
+[[params.social]]
+id = "github"
+url = "https://github.com/sunflower-cmd"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/"
+
+[[params.social]]
+id = "email"
+url = "mailto:phammanhdung05@gmail.com"
+
+[languages.en]
+languageName = "English"
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Experience"
+identifier = "Experience"
+url = "/experience/"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+identifier = "labs"
+name = "Labs"
+url = "/labs/"
+weight = 3

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark-Down on Sunf</title>
+    <link>https://dungpham.vercel.app/tags/mark-down/</link>
+    <description>Sunf (Mark-Down)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://dungpham.vercel.app/tags/mark-down/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://dungpham.vercel.app/posts/markdown/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dungpham.vercel.app/posts/markdown/</guid>
+      <description>&lt;h1 id=&#34;markdown-cheat-sheet&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#markdown-cheat-sheet&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Markdown Cheat Sheet
+&lt;/div&gt;
+&lt;/h1&gt;&lt;p&gt;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;basic syntax&lt;/a&gt; and &lt;a href=&#34;https://www.markdownguide.org/extended-syntax/&#34;&gt;extended syntax&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks for visiting &lt;a href=&#34;https://www.markdownguide.org&#34;&gt;The Markdown Guide&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#basic-syntax&#34;&gt;
+        #
+    &lt;/a&gt;
+    Basic Syntax
+&lt;/div&gt;
+&lt;/h2&gt;&lt;p&gt;These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.&lt;/p&gt;
+&lt;h3 id=&#34;heading&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#heading&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Heading
+&lt;/div&gt;
+&lt;/h3&gt;&lt;h1 id=&#34;h1&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h1&#34;&gt;
+        ##
+    &lt;/a&gt;
+    H1
+&lt;/div&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;h2&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h2&#34;&gt;
+        #
+    &lt;/a&gt;
+    H2
+&lt;/div&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;h3&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h3&#34;&gt;
+        ##
+    &lt;/a&gt;
+    H3
+&lt;/div&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;bold&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#bold&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Bold
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;italic&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#italic&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Italic
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;italicized text&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;blockquote&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#blockquote&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Blockquote
+&lt;/div&gt;
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;blockquote&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ordered-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#ordered-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Ordered List
+&lt;/div&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unordered-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#unordered-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Unordered List
+&lt;/div&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;code&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#code&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Code
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;horizontal-rule&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#horizontal-rule&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Horizontal Rule
+&lt;/div&gt;
+&lt;/h3&gt;&lt;hr&gt;
+&lt;h3 id=&#34;link&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#link&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Link
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org&#34;&gt;Markdown Guide&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;image&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#image&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Image
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/assets/images/tux.png&#34;&gt;alt text&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;extended-syntax&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#extended-syntax&#34;&gt;
+        #
+    &lt;/a&gt;
+    Extended Syntax
+&lt;/div&gt;
+&lt;/h2&gt;&lt;p&gt;These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.&lt;/p&gt;
+&lt;h3 id=&#34;table&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#table&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Table
+&lt;/div&gt;
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Syntax&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Header&lt;/td&gt;
+&lt;td&gt;Title&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Paragraph&lt;/td&gt;
+&lt;td&gt;Text&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;fenced-code-block&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#fenced-code-block&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Fenced Code Block
+&lt;/div&gt;
+&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{
+  &amp;#34;firstName&amp;#34;: &amp;#34;John&amp;#34;,
+  &amp;#34;lastName&amp;#34;: &amp;#34;Smith&amp;#34;,
+  &amp;#34;age&amp;#34;: 25
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;footnote&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#footnote&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Footnote
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;Here&amp;rsquo;s a sentence with a footnote. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;heading-id&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#heading-id&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Heading ID
+&lt;/div&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;custom-id&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#custom-id&#34;&gt;
+        ##
+    &lt;/a&gt;
+    My Great Heading
+&lt;/div&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;definition-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#definition-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Definition List
+&lt;/div&gt;
+&lt;/h3&gt;&lt;dl&gt;
+&lt;dt&gt;term&lt;/dt&gt;
+&lt;dd&gt;definition&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;strikethrough&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#strikethrough&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Strikethrough
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;del&gt;The world is flat.&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;task-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#task-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Task List
+&lt;/div&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write the press release&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Update the website&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Contact the media&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;emoji&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#emoji&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Emoji
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;That is so funny! :joy:&lt;/p&gt;
+&lt;p&gt;(See also &lt;a href=&#34;https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji&#34;&gt;Copying and Pasting Emoji&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;highlight&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#highlight&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Highlight
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;I need to highlight these ==very important words==.&lt;/p&gt;
+&lt;h3 id=&#34;subscript&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#subscript&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Subscript
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;H~2~O&lt;/p&gt;
+&lt;h3 id=&#34;superscript&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#superscript&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Superscript
+&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;X^2^&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This is the footnote.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
